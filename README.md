@@ -51,11 +51,11 @@ AnimatedBuilder(
 ⚙️ Como rodar
 1. Clone o projeto:
    bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/Zimmer-7/carregamento_customizado
    
 2. Entre na pasta:
    bash
-   cd seu-repo
+   cd carregamento_customizado
    
 3. Rode o app:
    bash
