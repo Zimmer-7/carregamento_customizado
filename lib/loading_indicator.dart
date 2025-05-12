@@ -48,7 +48,11 @@ class _LoadingIndicatorState extends State<LoadingIndicator>
               angle: rotationAnim.value,
               child: Transform.scale(
                 scale: scaleAnim.value,
-                child: const Icon(Icons.sync, size: 48),
+                child: const Icon(
+                  Icons.auto_awesome, // ícone personalizado escolhido
+                  size: 64,
+                  color: Colors.deepPurple, // cor personalizada
+                ),
               ),
             );
           },
